@@ -1,0 +1,20 @@
+*
+{
+    margin:20px;
+}
+body
+{
+    background-color: rgb(41, 63, 31);
+    color: red;
+    font-family: Cambria;
+}
+img
+{
+    width: 400px;
+    height: 400px;
+}
+p{
+    background-color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
